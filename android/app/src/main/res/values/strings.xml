@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RemoDroid</string>
+    <string name="tagline">Control. Support. Anywhere.</string>
+    <string name="accessibility_service_label">RemoDroid remote control</string>
+    <string name="accessibility_service_description">Lets a person you approve in RemoDroid tap, swipe, use Back/Home/Recents and type on this device during a session you can see and end at any time. RemoDroid only acts when a session is active and you granted control. It does not read or send the contents of your screen through this service, and it cannot operate the lock screen or protected windows.</string>
+    <string name="notification_channel_sharing">Screen sharing</string>
+    <string name="notification_channel_requests">Connection requests</string>
+</resources>

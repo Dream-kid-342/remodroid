@@ -1,0 +1,32 @@
+# Gradle / Kotlin
+.gradle/
+build/
+.kotlin/
+local.properties
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Android
+*.apk
+*.aab
+*.keystore
+*.jks
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Node server (see also server/.gitignore)
+server/node_modules/
+server/dist/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
